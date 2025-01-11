@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher turned meth maker partners with a former student.",
+    "year": 2008,
+    "genre": "Crime",
+    "rating": 9.5,
+    "seasons": 5
+  },
+  {
+    "title": "Game of Thrones",
+    "description": "Noble families fight for control of the mythical land of Westeros.",
+    "year": 2011,
+    "genre": "Fantasy",
+    "rating": 9.3,
+    "seasons": 8
+  },
+  {
+    "title": "Stranger Things",
+    "description": "A group of kids in the 1980s uncover supernatural mysteries in their small town.",
+    "year": 2016,
+    "genre": "Horror",
+    "rating": 8.7,
+    "seasons": 4
+  }
+]

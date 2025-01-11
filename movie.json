@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology.",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who unleashes chaos on Gotham City.",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0
+  },
+  {
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in search of a new home for humanity.",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.6
+  }
+]

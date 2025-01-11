@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Room",
+    "type": "Movie",
+    "description": "A melodramatic love story filled with bizarre characters and nonsensical plot twists.",
+    "year": 2003,
+    "rating": 3.7
+  },
+  {
+    "title": "Birdemic: Shock and Terror",
+    "type": "Movie",
+    "description": "A romantic drama about a salesman and a model, interrupted by an attack of deadly birds.",
+    "year": 2010,
+    "rating": 1.9
+  },
+  {
+    "title": "The Secret Diary of Desmond Pfeiffer",
+    "type": "Series",
+    "description": "A sitcom set during the American Civil War, widely criticized for its poor taste and humor.",
+    "year": 1998,
+    "rating": 2.5
+  }
+]
