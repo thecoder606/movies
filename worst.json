@@ -1,5 +1,6 @@
 [
   {
+    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "The Room",
     "type": "Movie",
     "description": "A melodramatic love story filled with bizarre characters and nonsensical plot twists.",
@@ -7,6 +8,7 @@
     "rating": 3.7
   },
   {
+    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "Birdemic: Shock and Terror",
     "type": "Movie",
     "description": "A romantic drama about a salesman and a model, interrupted by an attack of deadly birds.",
@@ -14,6 +16,7 @@
     "rating": 1.9
   },
   {
+    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "The Secret Diary of Desmond Pfeiffer",
     "type": "Series",
     "description": "A sitcom set during the American Civil War, widely criticized for its poor taste and humor.",
