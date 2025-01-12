@@ -1,32 +1,32 @@
 [
   {
     "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
-    "title": "Breaking Bad",
-    "description": "A high school chemistry teacher turned meth maker partners with a former student.",
-    "year": 2008,
-    "genre": "Crime",
-    "rating": 4.5,
-    "seasons": 5,
-    "episode":7,
-  },
-  {
-    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
-    "title": "Game of Thrones",
-    "description": "Noble families fight for control of the mythical land of Westeros.",
-    "year": 2011,
-    "genre": "Fantasy",
-    "rating": 4.3,
-    "seasons": 8,
-    "episode":18,
-  },
-  {
-    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
-    "title": "Stranger Things",
-    "description": "A group of kids in the 1980s uncover supernatural mysteries in their small town.",
-    "year": 2016,
-    "genre": "Horror",
-    "rating": 3.7,
-    "seasons": 4,
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology.",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating":4.5,
     "episode":12,
+    "seasone":5
+  },
+  {
+    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
+    "title": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who unleashes chaos on Gotham City.",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 5.0,
+    "episode":12,
+    "seasone":5
+  },
+  {
+    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in search of a new home for humanity.",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 4.6,
+    "episode":12,
+    "seasone":5
   }
 ]
