@@ -1,14 +1,14 @@
 [
   {
-    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
+    "image": "https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "Inception",
     "review": "A thief who steals corporate secrets through dream-sharing technology.",
     "year": 2010,
     "genre": "Sci-Fi",
-    "rating":4.5
+    "rating": 4.5
   },
   {
-    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
+    "image": "https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "The Dark Knight",
     "review": "Batman faces the Joker, a criminal mastermind who unleashes chaos on Gotham City.",
     "year": 2008,
@@ -16,7 +16,7 @@
     "rating": 5.0
   },
   {
-    "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
+    "image": "https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "Interstellar",
     "review": "A team of explorers travel through a wormhole in search of a new home for humanity.",
     "year": 2014,
