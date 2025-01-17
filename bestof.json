@@ -7,7 +7,7 @@
     "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
     "year": 1994,
     "rating": 5.0,
-    "award":['oscar','balandor']
+    "award":[]
   },
   {
     "number":"1",
@@ -17,6 +17,6 @@
     "description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
     "year": 1972,
     "rating": 3.2,
-    "award":['oscar','balandor']
+    "award":[]
   }
 ]
