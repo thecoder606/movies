@@ -5,7 +5,7 @@
     "description": "A thief who steals corporate secrets through dream-sharing technology.",
     "year": 2010,
     "genre": "Sci-Fi",
-    "rating":4.5,
+    "rating":4,
     "episode":12,
     "seasone":5
   },
@@ -15,7 +15,7 @@
     "description": "Batman faces the Joker, a criminal mastermind who unleashes chaos on Gotham City.",
     "year": 2008,
     "genre": "Action",
-    "rating": 5.0,
+    "rating": 5,
     "episode":12,
     "seasone":5
   },
@@ -25,7 +25,7 @@
     "description": "A team of explorers travel through a wormhole in search of a new home for humanity.",
     "year": 2014,
     "genre": "Sci-Fi",
-    "rating": 4.6,
+    "rating": 4,
     "episode":12,
     "seasone":5
   }
