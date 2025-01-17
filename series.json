@@ -7,7 +7,7 @@
     "genre": "Sci-Fi",
     "rating":4,
     "episode":12,
-    "seasone":5
+    "season":5
   },
   {
     "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
@@ -17,7 +17,7 @@
     "genre": "Action",
     "rating": 5,
     "episode":12,
-    "seasone":5
+    "season":5
   },
   {
     "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
@@ -27,6 +27,6 @@
     "genre": "Sci-Fi",
     "rating": 4,
     "episode":12,
-    "seasone":5
+    "season":5
   }
 ]
