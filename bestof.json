@@ -1,18 +1,22 @@
 [
   {
+    "number":"1",
     "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "The Shawshank Redemption",
     "type": "Movie",
     "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
     "year": 1994,
-    "rating": 5.0
+    "rating": 5.0,
+    "award":['oscar','balandor']
   },
   {
+    "number":"1",
     "image":"https://i.pinimg.com/736x/20/d4/e2/20d4e29374433cc803041fb1069e8c24.jpg",
     "title": "The Godfather",
     "type": "Movie",
     "description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
     "year": 1972,
-    "rating": 3.2
+    "rating": 3.2,
+    "award":['oscar','balandor']
   }
 ]
